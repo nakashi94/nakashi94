@@ -32,3 +32,8 @@
 ### :whale: Docker Hub
 
 #### **https://hub.docker.com/u/s2110121**
+
+### :notebook_with_decorative_cover: Note
+
+#### **https://note.com/n0904y**
+
